@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "IPTV Smarters",
+    "icone": "https://github.com/p2p-wal/meus-apks/raw/main/icones/smarters.png",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/IPTV.Smarters.apk"
+  },
+  {
+    "nome": "BonitoTV",
+    "icone": "https://github.com/p2p-wal/meus-apks/raw/main/icones/bonito.png",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/base.apk"
+  },
+  {
+    "nome": "Cinema",
+    "icone": "https://github.com/p2p-wal/meus-apks/raw/main/icones/cinema.png",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/Cinema.apk"
+  },
+  {
+    "nome": "ReUse",
+    "icone": "https://github.com/p2p-wal/meus-apks/raw/main/icones/reuse.png",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/reuse_143_ilimitado_modosuper.apk"
+  },
+  {
+    "nome": "STV",
+    "icone": "https://github.com/p2p-wal/meus-apks/raw/main/icones/stv.png",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/STV-BARRIL.apk"
+  },
+  {
+    "nome": "Vivo Player",
+    "icone": "https://github.com/p2p-wal/meus-apks/raw/main/icones/vivo.png",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/Vivo.Player.box.tv.Android.tv.mi.stick.tv.projetor.Android.e.celular.Android.Versao.Lite.armbi.7_.apk"
+  },
+  {
+    "nome": "VU IPTV Player",
+    "icone": "https://github.com/p2p-wal/meus-apks/raw/main/icones/vu.png",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/VU.IPTV.Player.Pro.apk"
+  },
+  {
+    "nome": "YouCine",
+    "icone": "https://github.com/p2p-wal/meus-apks/raw/main/icones/youcine.png",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/YouCine-1.15.0.apk"
+  }
+]
