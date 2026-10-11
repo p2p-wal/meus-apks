@@ -27,7 +27,7 @@
     {
         "nome": "Vivo Player",
         "icone": "icone_vivo",
-        https://github.com/p2p-wal/meus-apks/releases/download/v1.0/VivoPlayer.apk
+        "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/VivoPlayer.apk"
     },
     {
         "nome": "VU IPTV Player",
@@ -47,7 +47,7 @@
     {
         "nome": "Zink Player Pro",
         "icone": "icone_zink",
-        https://github.com/p2p-wal/meus-apks/releases/download/v1.0/zinkplayer.apk
+        "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/zinkplayer.apk"
     },
     {
         "nome": "UNITV",
