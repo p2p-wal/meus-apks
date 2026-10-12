@@ -29,11 +29,21 @@
         "icone": "icone_vivo",
         "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/VivoPlayer.apk"
     },
-    {
-        "nome": "VU IPTV Player",
-        "icone": "icone_vu",
-        "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/VU.IPTV.Player.Pro.apk"
+    {   
+        "nome": "XCIPTV",
+        "icone": "icone_xciptv",
+        "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/xciptv.apk"
     },
+    {
+        "nome": "Zink Player Pro",
+        "icone": "icone_zink",
+        "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/ZINK.PRO.4.3.apk%2B"
+    },
+    {
+         "nome": "XdPlayer Smarter",
+        "icone": "icone_xdplayer",
+        "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/XdPlayerSmarter-1.apk"
+    }
     {
         "nome": "YouCine",
         "icone": "icone_youcine",
