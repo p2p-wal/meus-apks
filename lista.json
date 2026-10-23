@@ -74,5 +74,11 @@
         "nome": "Ativador UniTV Free",
         "icone": "icone_ativador",
         "url": "https://github.com"
-    }
+    },
+    {
+    "nome": "STV",
+    "icone": "icone_stv",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/STV-BARRIL.apk",
+    "packageName": "com.bx.live.mobile"
+  }
 ]
