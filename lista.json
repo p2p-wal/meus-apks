@@ -1,81 +1,107 @@
 [
-    {
-        "nome": "IPTV Smarters",
-        "icone": "icone_inteligentes",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "BonitoTV",
-        "icone": "icone_bonito",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "Cinema",
-        "icone": "icone_cinema",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "Reutilizar",
-        "icone": "icone_reutilizacao",
-        "url": "https://github.com"
-    },
-   
-    {
-        "nome": "Vivo Player",
-        "icone": "icone_vivo",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "YouCine",
-        "icone": "icone_youcine",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "IPTV Roxo",
-        "icone": "icone_roxo",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "UNITV",
-        "icone": "icone_unitv",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "Jogador IBO",
-        "icone": "icone_ibo",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "XCIPTV",
-        "icone": "icone_xciptv",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "XdPlayer mais inteligente",
-        "icone": "icone_xdplayer",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "ClonaTela",
-        "icone": "icone_clonatela",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "UniTV Grátis",
-        "icone": "icone_unitvfree",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "HighTV",
-        "icone": "icone_hightv",
-        "url": "https://github.com"
-    },
-    {
-        "nome": "Ativador UniTV Free",
-        "icone": "icone_ativador",
-        "url": "https://github.com"
-    },
-    {
+  {
+    "nome": "IPTV Smarters",
+    "icone": "icone_smarters",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/IPTVSmarters.apk",
+    "packageName": "com.nst.iptvsmartrestvbox"
+  },
+  {
+    "nome": "Velo Play",
+    "icone": "icone_veloplay",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/veloplay.apk",
+    "packageName": "com.global.veloplaytv"
+  },
+  {
+    "nome": "My Family Cinema",
+    "icone": "icone_myfamily",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/myfamily.apk",
+    "packageName": "com.myfamily.cinema"
+  },
+  {
+    "nome": "Ativador UniTV",
+    "icone": "icone_ativador",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/ativador.apk",
+    "packageName": "com.example.ativador_unitvfree"
+  },
+  {
+    "nome": "UniTV Free",
+    "icone": "icone_univtfree",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/univtfree.apk",
+    "packageName": "com.integration.unitysiptv"
+  },
+  {
+    "nome": "ClonaTela",
+    "icone": "icone_clonatela",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/clonatela.apk",
+    "packageName": "com.th.thtestes"
+  },
+  {
+    "nome": "IBO Player",
+    "icone": "icone_ibo",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/IBOPlayer_Vitalicio.apk",
+    "packageName": "com.ibostore.meplayerib4k"
+  },
+  {
+    "nome": "Purple IPTV",
+    "icone": "icone_purple",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/purple.iptv.apk",
+    "packageName": "com.purple.iptv.smart.player"
+  },
+  {
+    "nome": "XD Player Smarter",
+    "icone": "icone_xdplayer",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/XdPlayerSmarter-1.apk",
+    "packageName": "ib.xdplayersmarter"
+  },
+  {
+    "nome": "HighTV",
+    "icone": "icone_hightv",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/hightv.apk",
+    "packageName": "com.tvfllmmesseries.app"
+  },
+  {
+    "nome": "BonitoTV",
+    "icone": "icone_bonito",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/bonitotv.apk",
+    "packageName": "com.android.bonito.stb"
+  },
+  {
+    "nome": "Cinema",
+    "icone": "icone_cinema",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/Cinema.apk",
+    "packageName": "com.cinema.app"
+  },
+  {
+    "nome": "ReUse",
+    "icone": "icone_reuse",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/reuse_143_ilimitado_modosuper.apk",
+    "packageName": "com.rtxapps.reuse"
+  },
+  {
+    "nome": "UniTV",
+    "icone": "icone_unitv",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/uniTV.apk",
+    "packageName": "com.global.unityptv"
+  },
+  {
+    "nome": "YouCine",
+    "icone": "icone_youcine",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/YouCine-1.15.0.apk",
+    "packageName": "com.world.youcinetv"
+  },
+  {
+    "nome": "XCIPTV",
+    "icone": "icone_xciptv",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/xciptv.apk",
+    "packageName": "com.nathnetwork.xciptv"
+  },
+  {
+    "nome": "Vivo Player",
+    "icone": "icone_vivo",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/VivoPlayer.apk",
+    "packageName": "iptv.vivo.player"
+  },
+  {
     "nome": "STV",
     "icone": "icone_stv",
     "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/STV-BARRIL.apk",
