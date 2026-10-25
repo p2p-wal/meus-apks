@@ -3,7 +3,7 @@
     "nome": "IPTV Smarters",
     "icone": "icone_smarters",
     "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/IPTV.Smarters.apk",
-    "packageName": "com.nst.iptvsmartrestvbox"
+    "packageName": "com.nst.iptvsmarterstvbox"
   },
   {
     "nome": "Velo Play",
@@ -27,7 +27,7 @@
     "nome": "UniTV Free",
     "icone": "icone_unitvfree",
     "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/unitvfree.apk",
-    "packageName": "com.integration.unitysiptv"
+    "packageName": "com.integration.unitvsiptv"
   },
   {
     "nome": "ClonaTela",
@@ -57,7 +57,7 @@
     "nome": "HighTV",
     "icone": "icone_hightv",
     "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/hightv.apk",
-    "packageName": "com.tvfllmmesseries.app"
+    "packageName": "com.tvfilmesseries.app"
   },
   {
     "nome": "BonitoTV",
@@ -81,7 +81,7 @@
     "nome": "UniTV",
     "icone": "icone_unitv",
     "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/uniTV.apk",
-    "packageName": "com.global.unityptv"
+    "packageName": "com.global.unitviptv"
   },
   {
     "nome": "YouCine",
