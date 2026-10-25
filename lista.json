@@ -2,7 +2,7 @@
   {
     "nome": "IPTV Smarters",
     "icone": "icone_smarters",
-    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/IPTVSmarters.apk",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/IPTV.Smarters.apk",
     "packageName": "com.nst.iptvsmartrestvbox"
   },
   {
@@ -26,7 +26,7 @@
   {
     "nome": "UniTV Free",
     "icone": "icone_univtfree",
-    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/univtfree.apk",
+    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/unitvfree.apk",
     "packageName": "com.integration.unitysiptv"
   },
   {
