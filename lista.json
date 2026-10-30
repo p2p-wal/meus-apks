@@ -54,12 +54,6 @@
     "packageName": "ib.xdplayersmarter"
   },
   {
-    "nome": "HighTV",
-    "icone": "icone_hightv",
-    "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/hightv.apk",
-    "packageName": "com.tvfilmesseries.app"
-  },
-  {
     "nome": "BonitoTV",
     "icone": "icone_bonito",
     "url": "https://github.com/p2p-wal/meus-apks/releases/download/v1.0/bonitotv.apk",
